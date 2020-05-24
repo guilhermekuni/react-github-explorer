@@ -16,8 +16,8 @@
 
 ## Screenshots 🖼
 
-<image src="src/assets/screenshots/home.png" width="100%" />
-<image src="src/assets/screenshots/cart.png" width="100%" />
+<image src="src/assets/screenshots/dashboard.png" width="100%" />
+<image src="src/assets/screenshots/repository.png" width="100%" />
 
 ## Getting Started 🚀
 
