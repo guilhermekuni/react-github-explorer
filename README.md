@@ -1,44 +1,30 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1 align="center">⚛️ React Github Explorer 🔎</h1>
 
-## Available Scripts
+<div align="center">
+    <p>This project was developed in Rocketseat's Bootcamp GoStack 11!</p>
+    <p>The intention is to apply React basic concepts using Typescript.</p>
+</div>
 
-In the project directory, you can run:
+## Techs 🖥
 
-### `yarn start`
+- ⚛️ **ReactJS** - A JavaScript library for building user interfaces.
+- ⚛️ **Typescript** - An open-source language which builds on JavaScript, one of the world’s most used tools, by adding static type definitions.
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## About ℹ️
+ 
+<p>This project was developed to study React with Typescript. The features are very simple, you can search for Github repositories and add them to your repository list. You can also see the repositories details.</p>
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+## Screenshots 🖼
 
-### `yarn test`
+<image src="src/assets/screenshots/home.png" width="100%" />
+<image src="src/assets/screenshots/cart.png" width="100%" />
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Getting Started 🚀
 
-### `yarn build`
+1. First, you'll have to run `yarn` to install project dependecies.
+2. Run `yarn start`to run the application in development mode.
+3. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## License 📃
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/licenses/MIT) page for details.
