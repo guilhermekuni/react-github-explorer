@@ -5,7 +5,7 @@
     <p>The intention is to apply React basic concepts using Typescript.</p>
 </div>
 
-## Techs 🖥
+## Techs 💻
 
 - ⚛️ **ReactJS** - A JavaScript library for building user interfaces.
 - ⚛️ **Typescript** - An open-source language which builds on JavaScript, one of the world’s most used tools, by adding static type definitions.
