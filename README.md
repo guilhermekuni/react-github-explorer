@@ -7,6 +7,7 @@
     <img alt="Repository size" src="https://img.shields.io/github/repo-size/guilhermekuni/react-github-explorer?color=%23BC4749">
     <img alt="Repository last commit" src="https://img.shields.io/github/last-commit/guilhermekuni/react-github-explorer?color=%23BC4749" />
   </p>
+  <h3>First React + Typescript project!</h3>
   <p align="center">
     <a href="#about-information_source">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#techs-computer">Techs</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
