@@ -5,14 +5,14 @@
     <p>The intention is to apply React basic concepts using Typescript.</p>
 </div>
 
+## About ℹ️
+ 
+<p>This project was developed to study React with Typescript. The features are very simple, you can search for Github repositories and add them to your repository list. You can also see the repositories details.</p>
+
 ## Techs 💻
 
 - **ReactJS** - A JavaScript library for building user interfaces.
 - **Typescript** - An open-source language which builds on JavaScript, one of the world’s most used tools, by adding static type definitions.
-
-## About ℹ️
- 
-<p>This project was developed to study React with Typescript. The features are very simple, you can search for Github repositories and add them to your repository list. You can also see the repositories details.</p>
 
 ## Screenshots 🖼
 
